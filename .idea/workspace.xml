@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52b6e778-5b3c-4c07-8b60-6239616413e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/CycleDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/graph/TopoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/recursion/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/recursion/TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/search/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualizer/tree/BinaryTree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2zVBPNMjcFgLwG4IQ73wGr02oqz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AlgoPro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52b6e778-5b3c-4c07-8b60-6239616413e4" name="Changes" comment="" />
+      <created>1751806338006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751806338006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
